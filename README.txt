@@ -25,7 +25,7 @@ Download atau Clone Kode Program:
 Download file Python dari repository atau clone repository dari GitHub dengan perintah:
 bash
 Salin kode
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/arshandariza/quizkriptografi/blob/main/quiz.py
 Buka Terminal/Command Prompt:
 
 Navigasi ke direktori tempat program berada.
